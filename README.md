@@ -2,11 +2,9 @@
 
 ### Software Development Student | Front-End Developer | IT Intern
 
-I'm a Software Development student focused on building practical projects and continuously improving my programming skills.
+Sou o Luiz Felipe Soares, desenvolvedor front-end e estudante de Análise e Desenvolvimento de Sistemas (ADS) na universidade USCS. Atualmente trabalho com Service Desk N1 / N2, sempre buscando resolver os problemas com o menhor tempo possivel e da melhor maneira, mais tenho o foco de entra na area de Desenvolvedor Front-End
 
-Currently, I'm studying **Analysis and Systems Development (ADS)** at USCS and developing my knowledge in web development, software engineering, databases, Git, and modern development tools.
-
-I enjoy learning how applications work from end to end and turning ideas into real projects.
+Além do desenvolvimento, também gerencio algumas coisas meu próprio negócio, o Empório Santa Maria, o que me trouxe uma visão prática de resolução de problemas reais com o atendimento ao cliente e de como a tecnologia para resolver alguns problemas.
 
 ---
 
@@ -18,7 +16,7 @@ I enjoy learning how applications work from end to end and turning ideas into re
 - 🌐 Currently improving my **Front-End Development** skills
 - 📚 Studying **JavaScript, React and Back-End fundamentals**
 - 🗄️ Learning more about databases and application architecture
-- 🚀 Building real projects to improve my development experience
+- 🚀 Continuously developing my technical skills
 - 🎯 Goal: Become a **Full-Stack Developer**
 
 ---
@@ -47,74 +45,6 @@ I enjoy learning how applications work from end to end and turning ideas into re
 ### Data & Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 🚀 Projects
-
-### 🍽️ Empório Santa Maria
-
-Institutional website developed for a real local business.
-
-**Technologies:**
-HTML, CSS, JavaScript and Vercel
-
-🔗 [View Project](https://emporio-santamaria.vercel.app/)
-
----
-
-### 📅 Online Scheduling System
-
-Scheduling platform developed for a beauty professional, including appointment management, cancellation, rescheduling and administrative features.
-
-**Technologies & concepts:**
-
-- JavaScript
-- React
-- Node.js
-- PostgreSQL
-- Vercel
-- Authentication
-- Appointment Management
-- Admin Dashboard
-
----
-
-### 💰 Financial Control MVP
-
-Simple financial management application focused on:
-
-- Revenue tracking
-- Expense tracking
-- Profit calculation
-- Financial reports
-
----
-
-## 📊 GitHub Statistics
-
-![Luiz Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoraiss&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoraiss&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dmoraiss&theme=github-dark-blue&hide_border=true)
-
----
-
-## 🎯 Current Goals
-
-- Improve my JavaScript knowledge
-- Build more real-world projects
-- Improve my React skills
-- Learn Back-End development
-- Improve my knowledge of PostgreSQL
-- Understand software architecture
-- Contribute to open-source projects
-- Start my professional career as a Software Developer
 
 ---
 
